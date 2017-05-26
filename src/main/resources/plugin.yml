@@ -1,5 +1,5 @@
 name: BukkitTelnet
 main: me.totalfreedom.bukkittelnet.BukkitTelnet
-version: 4.4
+version: 4.5
 description: Telnet console access plugin.
 authors: [bekvon, Madgeek1450, Prozza]
